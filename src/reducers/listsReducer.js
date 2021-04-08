@@ -5,12 +5,12 @@ let cardID = 8;
 
 const initialState = [
   {
-    title: "ToDo",
+    title: "Open",
     id: `list-${0}`,
     cards: [],
   },
   {
-    title: "InProgress",
+    title: "Work In Progress",
     id: `list-${1}`,
     cards: [],
   },
